@@ -2,6 +2,7 @@
 
 **A fully functioning NFT marketplace application where users can buy, sell, discover, and create their own NFTs inside of a Web3.0, blockchain-based platform.**
 
+Used the most modern, most popular, and most in-demand technologies in the JavaScript ecosystem, such as React.js, Solidity, MetaMask, IPFS, ES Lint, and more!
 
 
 ### What I learnt
